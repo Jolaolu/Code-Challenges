@@ -1,0 +1,1 @@
+# Snippets of code for Algorithms exercises
