@@ -6,8 +6,8 @@
 
 #### Primers
 
-* the focus of the exercise is on the technical solutions
+* The focus of the exercise is on the technical solutions
   
-• the important thing is that you understand the approach used, way of thinking and  use of software engineering best practices
+• The important thing is that you understand the approach used, way of thinking and  use of software engineering best practices
 
 • The solutions are quite lean to the best of my knowledge
